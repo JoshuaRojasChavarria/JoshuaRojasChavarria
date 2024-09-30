@@ -1,4 +1,11 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hi, I'm Joshua</a> 🚀</h1>
+
+
+
+I'm a student systems engineering  🎓 from Universidad Nacional de Costa Rica 🏛. I'm a passionate learner who's always
+willing to learn and work across technologies💡. I love to explore new technologies and leverage them to solve real-life
+problems ✨. Apart from that.
 
 <!--
 **JoshuaRojasChavarria/JoshuaRojasChavarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
