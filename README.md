@@ -4,11 +4,9 @@
 <img src=https://github.com/user-attachments/assets/6c76a4c2-d40a-4234-afbc-9ddf32e6fbe2>
 
 ## About me
-- ⭐ I'm a student systems engineering  🎓 from Universidad Nacional de Costa Rica 🏛.
-- ✏️ I'm a passionate learner who's always
-willing to learn and work across technologies💡.
-- 📲 I love to explore new technologies and leverage them to solve real-life
-problems ✨.
+- ⭐ I'm a systems engineering student 🎓 at Universidad Nacional de Costa Rica 🏛.
+- ✏️ I'm a passionate learner who's always willing to learn and work across different technologies 💡.
+- 📲 I love to explore new technologies and leverage them to solve real-life problems ✨.
 
 <!--
 **JoshuaRojasChavarria/JoshuaRojasChavarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
