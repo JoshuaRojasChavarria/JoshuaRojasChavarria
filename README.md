@@ -34,7 +34,11 @@
 - Exploring **Blockchain** technologies and **Decentralized Systems** 🧠
 
 ---
+## 📲 Connect with Me
+- [Facebook](https://www.facebook.com/joshua.rojas.507464?mibextid=ZbWKwL)
+- [Instagram](https://www.instagram.com/invites/contact/?igsh=h7hqiz71ndkb&utm_content=e4bg5hi)
 
+---
 ## 🤝 Let's Connect
 - 💬 Ask me about **technology trends**, **software development**, or anything tech!
 - 📫 Reach me via: joshua.rojas.chavarria@est.una.ac.cr 
