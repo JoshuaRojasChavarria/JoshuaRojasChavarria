@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi, I'm Joshua</a> 🚀</h1>
   </div>
-<img src=https://github.com/user-attachments/assets/2d3346bf-b80b-4ef0-b34f-30d41a9b76da>
+<img src=https://github.com/user-attachments/assets/6c76a4c2-d40a-4234-afbc-9ddf32e6fbe2>
 
 ## About me
 - ⭐ I'm a student systems engineering  🎓 from Universidad Nacional de Costa Rica 🏛.
