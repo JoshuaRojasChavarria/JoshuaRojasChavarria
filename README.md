@@ -9,7 +9,7 @@
 - 🎓 **Systems Engineering Student** at Universidad Nacional de Costa Rica 🏛.
 - 💡 A passionate learner, eager to dive into new technologies and apply them to solve real-world problems.
 - 🚀 Always excited to collaborate and learn across different fields of tech and beyond.
-
+- 💻 I primarily program in **C++** using **Visual Studio**.
 ---
 
 ## 💻 Tech Stack
