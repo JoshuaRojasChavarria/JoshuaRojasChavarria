@@ -1,24 +1,51 @@
 <div align="center">
-<h1 align="center">Hi, I'm Joshua</a> 🚀</h1>
-  </div>
-<img src=https://github.com/user-attachments/assets/6c76a4c2-d40a-4234-afbc-9ddf32e6fbe2>
+  <h1>Hi there, I'm Joshua! 👋🚀</h1>
+  <img src="https://github.com/user-attachments/assets/6c76a4c2-d40a-4234-afbc-9ddf32e6fbe2" alt="banner image" width="600"/>
+</div>
 
-## About me
-- ⭐ I'm a systems engineering student 🎓 at Universidad Nacional de Costa Rica 🏛.
-- ✏️ I'm a passionate learner who's always willing to learn and work across different technologies 💡.
-- 📲 I love to explore new technologies and leverage them to solve real-life problems ✨.
+---
+
+## 🌟 About Me
+- 🎓 **Systems Engineering Student** at Universidad Nacional de Costa Rica 🏛.
+- 💡 A passionate learner, eager to dive into new technologies and apply them to solve real-world problems.
+- 🚀 Always excited to collaborate and learn across different fields of tech and beyond.
+
+---
+
+## 💻 Tech Stack
+- **Languages**: C++, Python, Java, JavaScript
+- **Technologies**: Git, Docker, Kubernetes, CI/CD
+- **Frameworks**: React, Node.js, Django
+- **Databases**: MySQL, MongoDB, PostgreSQL
+- **Cloud**: AWS, Azure, Google Cloud
+
+---
+
+## 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoshuaRojasChavarria&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaRojasChavarria&layout=compact&theme=dark&hide_border=true&langs_count=8" />
+</div>
+
+---
+
+## 🌱 Currently Learning
+- Deepening knowledge in **AI** and **Machine Learning** 🤖
+- Exploring **Blockchain** technologies and **Decentralized Systems** 🧠
+
+---
+
+## 🤝 Let's Connect
+- 💬 Ask me about **technology trends**, **software development**, or anything tech!
+- 📫 Reach me via: joshua.rojas.chavarria@est.una.ac.cr 
+
+
+---
+
+## ⚡ Fun Fact
+- I'm always up for a **tech challenge** or a great **coding session** with coffee ☕!
 
 <!--
 **JoshuaRojasChavarria/JoshuaRojasChavarria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
