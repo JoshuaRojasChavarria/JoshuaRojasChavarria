@@ -13,11 +13,11 @@
 ---
 
 ## 💻 Tech Stack
-- **Languages**: C++, Python, Java, JavaScript
-- **Technologies**: Git, Docker, Kubernetes, CI/CD
-- **Frameworks**: React, Node.js, Django
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Cloud**: AWS, Azure, Google Cloud
+- **Languages**: C++, Java, PL/SQL
+- **IDEs**: Visual Studio, NetBeans, Scene Builder
+- **Version Control**: Git, GitHub
+- **Databases**: MySQL, PostgreSQL
+- **UI**: JavaFX, FXML, CSS, focused on clean, readable design
 
 ---
 
